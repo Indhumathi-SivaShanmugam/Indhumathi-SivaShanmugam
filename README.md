@@ -1,6 +1,6 @@
 # Hey there, I'm Indhumathi Sivashanmugam👋
 
-🎓 I'm currently a **2nd-year B.Tech student** at Shiv Nadar University, Chennai, with a passion for exploring diverse areas of technology.  
+🎓 I'm currently a **3rd-year B.Tech student** at Shiv Nadar University, Chennai, with a passion for exploring diverse areas of technology.  
 🚀 My interests lie in **Machine Learning**, **IoT**, **Web Development**, and **Automation** — always looking to push boundaries and find creative solutions to real-world challenges.  
 🌱 I enjoy experimenting with new tools and technologies, whether it's building interactive web applications or working on hardware-software integration for efficient automation.
 
